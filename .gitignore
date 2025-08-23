@@ -1,0 +1,3 @@
+__MACOSX/ 
+*.DS_Store   # Ignore macOS metadata files
+*.csv       # Ignore CSV files if not needed
